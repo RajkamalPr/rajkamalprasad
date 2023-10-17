@@ -1194,5 +1194,5 @@ section .container {
   color: #fff;
 }
 .video {
-  width: 100%;
+  width: -webkit-fill-available;
 }

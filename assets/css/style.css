@@ -1196,3 +1196,10 @@ section .container {
 .video-box {
   width: -webkit-fill-available;
 }
+.project-boxfooter {
+  display: flex;
+  justify-content: space-between;
+}
+.status {
+  color: #15bb62;
+}

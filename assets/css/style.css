@@ -1203,3 +1203,13 @@ section .container {
 .status {
   color: #15bb62;
 }
+.download-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  font-weight: bold;
+  background: #18d26e;
+  border-radius: 5px;
+  height: 34px;
+}
